@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajitreddy123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitreddy123456" height="30" width="40" /></a>
+<a href="https://twitter.com/ajitreddy2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitreddy123456" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajit-reddy-75b02b240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajit-reddy-75b02b240" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/a_j_i_t_r_e_d_d_y_?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/a_j_i_t_r_e_d_d_y_?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
