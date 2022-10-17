@@ -1,10 +1,15 @@
-- 👋 Hi, I’m AJIT REDDY.V
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ajitreddy91@gmail.com
+<h1 align="center">Hi 👋, I'm Ajit reddy v</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!---
-AJITaji2001/AJITaji2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitaji2001&label=Profile%20views&color=0e75b6&style=flat" alt="ajitaji2001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitaji2001" alt="ajitaji2001" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitaji2001&show_icons=true&locale=en" alt="ajitaji2001" /></p>
